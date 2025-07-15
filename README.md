@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I can switch between C++ and Python.😉
 
 
-<!---<h1 align="center">Hi 👋, I'm Jatin Pasi</h1>
+<h1 align="center">Hi 👋, I'm Jatin Pasi</h1>
 <h3 align="center">👀A passionate about Data Structures & Algorithms and Data Driven Fields</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinpasi27&label=Profile%20views&color=0e75b6&style=flat" alt="jatinpasi27" /> </p>
@@ -48,4 +48,4 @@
 
 jatinpasi27/jatinpasi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
